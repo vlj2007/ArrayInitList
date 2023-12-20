@@ -1,10 +1,10 @@
-package pro.sky.IntList;
+package pro.sky.ArrayInitList;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IntListApplicationTests {
+class ArrayInitListApplicationTests {
 
 	@Test
 	void contextLoads() {
