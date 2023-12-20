@@ -15,4 +15,6 @@ public interface ArrayInitList {
     boolean isEmpty();
     void clear();
     Integer[] toArray();
+
+    void quickSort(Integer[] arr, int begin, int end);
 }
